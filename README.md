@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Lakshya Srivastava
 
 
-<img src="hhttps://images.app.goo.gl/mhSs6J5VywbTGH9y5"  width="50" height="50"/>
 
 
 <!--
