@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+🧰 Toolbox
+
+<img src="icons/ansible/ansible-original-wordmark.svg"  width="50" height="50"/> 
+
+---
