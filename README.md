@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 🧰 Toolbox
 
-<img src="icons/ansible/ansible-original-wordmark.svg"  width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg"  width="50" height="50"/> 
 
 ---
